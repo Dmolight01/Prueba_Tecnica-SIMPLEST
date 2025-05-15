@@ -3,6 +3,8 @@ Este repositorio se crea única y exclusivamente para revisión y uso de la empr
 
 Instrucciones de Uso:
 
+Video explicativo:  https://drive.google.com/file/d/1lJUDbkHda-3zY--UhVk01gxaQraArFKt/view?usp=sharing
+
 Este proyecto se desarrollo con la finalidad de presentar los resultados obtenidos de las pruebas requeridas, a su vez que se tuvo la intencion de plasmar el conocimiento practico, aptitudes necesarias y nada más que gozar la experiencia del proceso, que me brindo certeza y entusiasmo por la posibilidad de aportar mi compromiso y valor a su equipo.
 
 Para poder ejecutar el programa:
