@@ -7,14 +7,15 @@ Este proyecto se desarrollo con la finalidad de presentar los resultados obtenid
 
 Para poder ejecutar el programa:
 
-Descargue el contenido del repositorio
-Cargue el archivo " PruebasTecnicasWilmerLeiva.ipynb " en su entorno de ejecución de preferencia
-Ejecute el codigo proporcionado
-Explore libremente las celdas y funciones para analizar, aprender o aplicar los resultados a nuevos casos.
-Herramientas y tecnologías manejadas:
+1. Descargue el contenido del repositorio
+2. Cargue el archivo " PruebasTecnicasWilmerLeiva.ipynb " en su entorno de ejecución de preferencia
+3. Ejecute el codigo proporcionado
+4. Explore libremente las celdas y funciones para analizar, aprender o aplicar los resultados a nuevos casos.
 
-GitHub
-Jupyter NoteBooks
-Google Colab
-Modelos IA como DeepSeek, Gemini, ChatGpt y ColabIA.
+Herramientas y tecnologías manejadas:
+1. GitHub
+2. Jupyter NoteBooks
+3. Google Colab
+4. Modelos IA como DeepSeek, Gemini, ChatGpt y ColabIA.
+
 Creación. Wilmer Leiva.
